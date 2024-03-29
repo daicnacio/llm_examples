@@ -1,7 +1,7 @@
 # Chat Assistant using Canopy and Gradio
 The following example is a chat assistant that uses the open source Retrieval Augmented Assistant (RAG) 
-framework [canopy](https://github.com/pinecone-io/canopy) and (gradio)[https://www.gradio.app/] for the UI.
-Canopy is built on top of the (pinecone)[https://www.pinecone.io/] vector database which is used to store the
+framework [canopy](https://github.com/pinecone-io/canopy) and [gradio](https://www.gradio.app/) for the UI.
+Canopy is built on top of the [pinecone](https://www.pinecone.io/) vector database which is used to store the
 information. In this case, the information is the product catalog for the online store https://contentia.cl.
 
 ## What do you need to make it work
